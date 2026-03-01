@@ -12,6 +12,8 @@
 - 👨‍💻 All of my projects are available at **[https://staruniversus.github.io/](https://staruniversus.github.io/)**
 
 - 📄 Know about my experiences **[https://staruniversus.github.io/files/cv.pdf](https://staruniversus.github.io/files/cv.pdf)**
+  
+- 🌟 A list of my published work on **[Google Scholar](https://scholar.google.com/citations?user=JpQ3YxkAAAAJ&hl)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
